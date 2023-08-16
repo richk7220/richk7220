@@ -1,5 +1,3 @@
-//Q 15
-
 
 #include <iostream>
 #include <fstream>
